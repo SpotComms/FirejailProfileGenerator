@@ -2,5 +2,5 @@
 
 POC by Febin
 
-[febinrev](twitter.com/febinrev)
+[Twitter: febinrev](https://twitter.com/febinrev)
 
