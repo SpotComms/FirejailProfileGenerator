@@ -1,0 +1,2 @@
+# FirejailProfileGenerator
+POC by Febin
